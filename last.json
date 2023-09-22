@@ -1,0 +1,377 @@
+{
+    "$type": "UAssetAPI.StructTypes.StructPropertyData, UAssetAPI",
+    "StructType": "TalkText(0)",
+    "SerializeNone": true,
+    "StructGUID": "00000000-0000-0000-0000-000000000000",
+    "Name": "TX_SYS_BA0_000000_0070(0)",
+    "DuplicationIndex": 0,
+    "Value": [
+        {
+            "$type": "UAssetAPI.PropertyTypes.EnumPropertyData, UAssetAPI",
+            "EnumType": "EBalloonType(0)",
+            "Name": "Type(0)",
+            "DuplicationIndex": 0,
+            "Value": "EBalloonType::NORMAL(0)"
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "BoolProperty(0)",
+            "Name": "Reset(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.BoolPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "IntProperty(0)",
+            "Name": "Height(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.IntPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "IntProperty(0)",
+            "Name": "Width(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.IntPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "NameProperty(0)",
+            "Name": "Names(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.NamePropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": "CN_NP_SYS_000000_0010(0)"
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "StrProperty(0)",
+            "Name": "Text(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.StrPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": "I see... Well, your unfortunate reputation \nprecedes you, my friend."
+                }
+            ]
+        }
+    ]
+},
+{
+    "$type": "UAssetAPI.StructTypes.StructPropertyData, UAssetAPI",
+    "StructType": "TalkText(0)",
+    "SerializeNone": true,
+    "StructGUID": "00000000-0000-0000-0000-000000000000",
+    "Name": "TX_SYS_BA0_000000_0080(0)",
+    "DuplicationIndex": 0,
+    "Value": [
+        {
+            "$type": "UAssetAPI.PropertyTypes.EnumPropertyData, UAssetAPI",
+            "EnumType": "EBalloonType(0)",
+            "Name": "Type(0)",
+            "DuplicationIndex": 0,
+            "Value": "EBalloonType::NORMAL(0)"
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "BoolProperty(0)",
+            "Name": "Reset(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.BoolPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "IntProperty(0)",
+            "Name": "Height(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.IntPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "IntProperty(0)",
+            "Name": "Width(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.IntPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "NameProperty(0)",
+            "Name": "Names(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.NamePropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": "CN_NP_SYS_000000_0010(0)"
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "StrProperty(0)",
+            "Name": "Text(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.StrPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": "I can help you get back into the townspeople's \nfavor, but it won't be cheap."
+                }
+            ]
+        }
+    ]
+},
+{
+    "$type": "UAssetAPI.StructTypes.StructPropertyData, UAssetAPI",
+    "StructType": "TalkText(0)",
+    "SerializeNone": true,
+    "StructGUID": "00000000-0000-0000-0000-000000000000",
+    "Name": "TX_SYS_BA0_000000_0090(0)",
+    "DuplicationIndex": 0,
+    "Value": [
+        {
+            "$type": "UAssetAPI.PropertyTypes.EnumPropertyData, UAssetAPI",
+            "EnumType": "EBalloonType(0)",
+            "Name": "Type(0)",
+            "DuplicationIndex": 0,
+            "Value": "EBalloonType::NORMAL(0)"
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "BoolProperty(0)",
+            "Name": "Reset(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.BoolPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "IntProperty(0)",
+            "Name": "Height(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.IntPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "IntProperty(0)",
+            "Name": "Width(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.IntPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "NameProperty(0)",
+            "Name": "Names(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.NamePropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": "CN_NP_SYS_000000_0010(0)"
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "StrProperty(0)",
+            "Name": "Text(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.StrPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": "I'm afraid it's going to cost you more than that. \nCome back once you can pay the price."
+                }
+            ]
+        }
+    ]
+},
+{
+    "$type": "UAssetAPI.StructTypes.StructPropertyData, UAssetAPI",
+    "StructType": "TalkText(0)",
+    "SerializeNone": true,
+    "StructGUID": "00000000-0000-0000-0000-000000000000",
+    "Name": "TX_SYS_BA0_000000_0100(0)",
+    "DuplicationIndex": 0,
+    "Value": [
+        {
+            "$type": "UAssetAPI.PropertyTypes.EnumPropertyData, UAssetAPI",
+            "EnumType": "EBalloonType(0)",
+            "Name": "Type(0)",
+            "DuplicationIndex": 0,
+            "Value": "EBalloonType::NORMAL(0)"
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "BoolProperty(0)",
+            "Name": "Reset(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.BoolPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": true
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "IntProperty(0)",
+            "Name": "Height(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.IntPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "IntProperty(0)",
+            "Name": "Width(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.IntPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": 0
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "NameProperty(0)",
+            "Name": "Names(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.NamePropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": "CN_NP_SYS_000000_0010(0)"
+                }
+            ]
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "StrProperty(0)",
+            "Name": "Text(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.StrPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": "Very well. I'll see what I can do."
+                }
+            ]
+        }
+    ]
+},
+{
+    "$type": "UAssetAPI.StructTypes.StructPropertyData, UAssetAPI",
+    "StructType": "TalkText(0)",
+    "SerializeNone": true,
+    "StructGUID": "00000000-0000-0000-0000-000000000000",
+    "Name": "TX_SYS_BA0_000000_0110(0)",
+    "DuplicationIndex": 0,
+    "Value": [
+        {
+            "$type": "UAssetAPI.PropertyTypes.EnumPropertyData, UAssetAPI",
+            "EnumType": "EBalloonType(0)",
+            "Name": "Type(0)",
+            "DuplicationIndex": 0,
+            "Value": "EBalloonType::NORMAL(0)"
+        },
+        {
+            "$type": "UAssetAPI.PropertyTypes.ArrayPropertyData, UAssetAPI",
+            "ArrayType": "BoolProperty(0)",
+            "Name": "Reset(0)",
+            "DuplicationIndex": 0,
+            "Value": [
+                {
+                    "$type": "UAssetAPI.PropertyTypes.BoolPropertyData, UAssetAPI",
+                    "Name": "0",
+                    "DuplicationIndex": 0,
+                    "Value": true
+                }
+            ]
+        },
